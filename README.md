@@ -1,32 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Zendo
 
-You can use the [editor on GitHub](https://github.com/yawen214/zendo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Imagine a world without unnecessary suffering and waste, where all living creates get to share a future with hope. At Zendo top talents build tools and products that help make humanity inclusive and great again, by elevating human consciousness through everyday actions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A sustainable mind 
 
-### Markdown
+A sustainable world can only exist out of a collective efforts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. a sustainable world is projection of collective sustainable mind
+2. A sustainable mind is inclusive and compassionate 
+```
 
 ### Jekyll Themes
 
